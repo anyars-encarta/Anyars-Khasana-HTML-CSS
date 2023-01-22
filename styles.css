@@ -33,6 +33,7 @@ body {
   }
   #img-caption {
     margin: 15px 0 5px 0;
+    font-size: 16px;
   }
   #img-div {
     background: white;
@@ -47,8 +48,10 @@ body {
   
   ul{
     text-align: left;
+    font-size: 16px;
   }
 
   #tribute-info p{
     font-style: italic;
+    font-size: 16px;
   }
