@@ -38,3 +38,17 @@ body {
     background: white;
     padding: 15px;
   }
+
+  #tribute-info {
+    margin: 15px 0 5px 0;
+    display: inline-block;
+    width: 800px;
+  }
+  
+  ul{
+    text-align: left;
+  }
+
+  #tribute-info p{
+    font-style: italic;
+  }
